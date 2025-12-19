@@ -188,7 +188,7 @@ Analyzes CSV data and generates forecast plots.
 **G S SHYAM SUNDER**
 
 - Email: shyamsundhar0103@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/shyam0103)
 
 ## Contributing
 
