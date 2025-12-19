@@ -1,0 +1,10 @@
+streamlit
+pandas
+yfinance
+requests
+prophet
+plotly
+matplotlib
+numpy
+reportlab
+kaleido
